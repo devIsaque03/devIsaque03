@@ -34,7 +34,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um cons
           
 ---
 🎯 **Objetivo:**
-- Estou em busca de uma posição de estágio onde eu possa:
+Estou em busca de uma posição de estágio onde eu possa:
 - Aprender e aplicar boas práticas de programação
 - Colaborar em projetos reais e desenvolver minhas habilidades
 - Contribuir com minha paixão por tecnologia e soluções digitais
