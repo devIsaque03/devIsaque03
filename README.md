@@ -31,13 +31,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um cons
 ---
 👨‍🎓 **Formações:**
 - Formação Github Certification (DIO)
-          
----
-🎯 **Objetivo:**
-Estou em busca de uma posição de estágio onde eu possa:
-- Aprender e aplicar boas práticas de programação
-- Colaborar em projetos reais e desenvolver minhas habilidades
-- Contribuir com minha paixão por tecnologia e soluções digitais
+
 ---
 🚀 **Como me encontrar:**
 - 📧 E-mail: isaqueacs7@gmail.com
