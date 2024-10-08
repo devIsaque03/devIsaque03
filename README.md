@@ -7,9 +7,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um cons
 #### Atualmente, estou em busca de uma oportunidade de estágio na área de desenvolvimento, onde eu possa aplicar os conhecimentos que venho adquirindo e, ao mesmo tempo, continuar aprendendo e me desenvolvendo profissionalmente. 🚀
 ---
 💻 **Habilidades em Desenvolvimento:**
-- Linguagens em aprendizado: JavaScript
-- Desenvolvimento Web: HTML, CSS, REACT, Node.js
-- Banco de Dados: MySQL
+- Linguagem: 
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 40px"/>
+
+- Desenvolvimento Web:   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="height: 40px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 40px"/>
+          
+- Banco de Dados: 
+        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="height: 40px"/>
+          
 ---
 📚 **Cursos em Andamento:**
 - Análise e Desenvolvimento de Sistemas (EAD) - UNIUBE 
@@ -19,6 +31,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um cons
 ---
 👨‍🎓 **Formações:**
 - Formação Github Certification (DIO)
+          
 ---
 🎯 **Objetivo:**
 - Estou em busca de uma posição de estágio onde eu possa:
