@@ -26,8 +26,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um cons
 📚 **Cursos em Andamento:**
 - Análise e Desenvolvimento de Sistemas (EAD) - UNIUBE 
 - Impulso Javascript Evolution (Bootcamp) - DIO
-- Santander Bootcamp 2023 - Fullstack Java+Angular (Bootcamp) - DIO
-- CS50's Introduction to Computer Science (EAD) - Harvard University 
 ---
 👨‍🎓 **Formações:**
 - Formação Github Certification (DIO)
