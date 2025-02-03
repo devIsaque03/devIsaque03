@@ -1,8 +1,6 @@
 ### Hello, I'm Isaque Samuel! Welcome to my GITHUB. 👋
 
-**PS**: Infelizmente perdi meu outro GITHUB, comecei esse na data 10.07.2024. [GITHUB em construção]
-
-Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um constante processo de aprendizado no mundo da tecnologia. Com apenas 20 anos, tenho focado em expandir meus conhecimentos por meio de cursos complementares e atividades práticas, visando desenvolver uma base sólida em programação e desenvolvimento de sistemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em um constante processo de aprendizado no mundo da tecnologia. Com apenas 22 anos, tenho focado em expandir meus conhecimentos por meio de cursos complementares e atividades práticas, visando desenvolver uma base sólida em programação e desenvolvimento de sistemas.
 
 #### Atualmente, estou em busca de uma oportunidade de estágio na área de desenvolvimento, onde eu possa aplicar os conhecimentos que venho adquirindo e, ao mesmo tempo, continuar aprendendo e me desenvolvendo profissionalmente. 🚀
 ---
@@ -16,7 +14,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um cons
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="height: 40px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 40px"/>
           
 - Banco de Dados: 
         
@@ -24,8 +21,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou em um cons
           
 ---
 📚 **Cursos em Andamento:**
-- Análise e Desenvolvimento de Sistemas (EAD) - UNIUBE 
-- Impulso Javascript Evolution (Bootcamp) - DIO
+- Análise e Desenvolvimento de Sistemas - UNIUBE 
+- Impulso Javascript Evolution - DIO
 ---
 👨‍🎓 **Formações:**
 - Formação Github Certification (DIO)
