@@ -1,6 +1,6 @@
 ### Hello, I'm Isaque Samuel! Welcome to my GITHUB. 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em um constante processo de aprendizado no mundo da tecnologia. Com apenas 22 anos, tenho focado em expandir meus conhecimentos por meio de cursos complementares e atividades práticas, visando desenvolver uma base sólida em programação e desenvolvimento de sistemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em um constante processo de aprendizado no mundo da tecnologia. Com apenas 21 anos, tenho focado em expandir meus conhecimentos por meio de cursos complementares e atividades práticas, visando desenvolver uma base sólida em programação e desenvolvimento de sistemas.
 
 #### Atualmente, estou em busca de uma oportunidade de estágio na área de desenvolvimento, onde eu possa aplicar os conhecimentos que venho adquirindo e, ao mesmo tempo, continuar aprendendo e me desenvolvendo profissionalmente. 🚀
 ---
